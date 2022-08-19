@@ -1,6 +1,6 @@
 {
   "name": "typescript-rest-kor",
-  "version": "3.0.5",
+  "version": "3.0.6",
   "description": "A Library to create RESTFul APIs with Typescript",
   "author": "Thiago da Rosa de Bustamante <thiago@cruxframework.org>",
   "keywords": [
@@ -60,7 +60,7 @@
     "fs-extra": "^10.0.0",
     "lodash": "^4.17.21",
     "multer": "^1.4.5-lts.1",
-    "passport": "^0.4.1",
+    "passport": "^0.6.0",
     "path": "^0.12.7",
     "reflect-metadata": "^0.1.13",
     "require-glob": "^4.1.0",
